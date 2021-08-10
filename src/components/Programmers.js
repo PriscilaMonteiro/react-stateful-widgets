@@ -16,8 +16,8 @@ import React, {useState} from 'react';
 // Use this variable ONLY to initialize a slice of state!
 // There is something in the JSX right now breaking this rule...
 export const listOfAwesome = [
-  { id: '1', name: 'Priscila Monteiro' },
-  { id: '2', name: 'Grace Hopper' },
+  { id: '1', name: 'Grace Hopper' },
+  { id: '2', name: 'Priscila monteiro' },
   { id: '3', name: 'Evelyn Boyd Granville' },
   { id: '4', name: 'Mary Kenneth Keller' },
   { id: '5', name: 'Frances Allen' },
